@@ -8,6 +8,6 @@ I'm studying the following courses on Datacamp:
 
 * Python DS
 
-*R for finance
+* R for finance
 
 <font color=red> README TEST OVER </font>
